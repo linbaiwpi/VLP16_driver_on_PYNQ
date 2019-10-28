@@ -24,6 +24,7 @@ $ g++ -std=c++11 run.cpp udp_input.cpp VelodyneDriver.cpp calibration.cpp conver
 $ cd ..
 $ python pc_captue.py
 ```
+![](./demo.png)
 
 ## Todo list
 **[x]** Driver modification
