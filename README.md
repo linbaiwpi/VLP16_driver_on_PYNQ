@@ -27,5 +27,7 @@ $ python pc_captue.py
 
 ## Todo list
 **[x]** Driver modification
+
 **[x]** Verification on desktop linux
+
 **[ ]** Test on PYNQ
